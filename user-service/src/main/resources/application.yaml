@@ -1,0 +1,7 @@
+spring:
+  main:
+    banner-mode: off
+  r2dbc:
+    url: r2dbc:h2:mem:///userdb
+server:
+  port: 8081

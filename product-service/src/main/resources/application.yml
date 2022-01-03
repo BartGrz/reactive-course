@@ -1,0 +1,9 @@
+spring:
+  main:
+    banner-mode: off
+  data:
+    mongodb:
+      database: 'productdb'
+
+server:
+  port: 8080
