@@ -20,5 +20,5 @@ public class Product implements Serializable {
     @NonNull
     private String description;
     @NonNull
-    private String price;
+    private int price;
 }

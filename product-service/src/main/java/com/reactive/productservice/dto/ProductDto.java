@@ -18,6 +18,6 @@ public class ProductDto implements Serializable {
     @NonNull
     private String description;
     @NonNull
-    private String price;
+    private int price;
 
 }
